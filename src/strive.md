@@ -126,7 +126,7 @@ eleventyNavigation:
 					</td>
 				<td>Game Realms, Burbank</td>
 				<td>August 23</td>
-				<td><a href="start.gg/hov">start.gg</a></td> 
+				<td><a href=" https://start.gg/hov">start.gg</a></td> 
 			  </tr>
 			  <tr>
 				<td>Zenith San Diego</td>
